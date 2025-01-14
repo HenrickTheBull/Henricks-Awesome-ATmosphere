@@ -2,7 +2,7 @@
 
 A list of clients, sites, and projects for ATProtocol/Bluesky compiled and maintained by [@henrick.thebull.app](https://bsky.app/profile/henrick.thebull.app)
 
-Merge Requests Welcome!
+Pull Requests Welcome!
 
 ### Clients
 1. https://deck.blue - TweetDeck for Bluesky
