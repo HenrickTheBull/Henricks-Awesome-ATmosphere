@@ -45,7 +45,7 @@ Pull Requests Welcome!
 
 ### Misc
 
-1. https://recipies.blue - Recipe Manager Built on ATProtocol.
+1. https://recipes.blue - Recipe Manager Built on ATProtocol.
 2. https://recipe.exchange/ - Recipe Manager Built on ATProtocol.
 3. https://place.blue/ - Collabrative drawing canvas.
 4. https://autoblue.co/ - Add Bluesky to your WordPress website
