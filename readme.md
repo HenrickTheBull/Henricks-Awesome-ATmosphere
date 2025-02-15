@@ -12,9 +12,9 @@ Pull Requests Welcome!
 5. https://app.ucho-ten.net/ - Ucho-Ten mobile app for Bluesky.
 
 ### Directories
-https://govsky.org/ - A list of Government affiliated accounts verified by their .gov TLDs.
-https://starterpacks.net/ - Searchable directory of Bluesky Starter Packs.
-https://blueskydirectory.com/ - Serchable directory of Bluesky Starter Packs, Feeds, Lists, etc.
+1. https://govsky.org/ - A list of Government affiliated accounts verified by their .gov TLDs.
+2. https://starterpacks.net/ - Searchable directory of Bluesky Starter Packs.
+3. https://blueskydirectory.com/ - Serchable directory of Bluesky Starter Packs, Feeds, Lists, etc.
 
 ### Blogs
 
